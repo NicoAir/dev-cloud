@@ -8,7 +8,7 @@
 
 ```kubectl port-forward service/nginx-service 8080:8080 -n m2a-pytre```
 
-### Groupe
+### Groupe Pytre
 - Florent Karam
 - Mickael Guy
 - Nicolas Augier
